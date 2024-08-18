@@ -38,7 +38,7 @@ The analysis yielded several insights, presented through various visualizations:
 
 ## Conclusion
 
-This python project provides a comprehensive analysis of Kiribati residents financial data, highlighting key metrics and insights into income generation and expenditure behavior. The visualizations and metrics offer valuable information for Kiribati residents to make informed decisions, provide a clear picture of financial health and stability, and help identify areas where they can cut costs and save money.
+This python project provides a comprehensive analysis of Kiribati residents financial data, highlighting key metrics and insights into income generation and expenditure behavior. The visualizations and metrics offer valuable information for Kiribati residents to make informed investment decisions, provide a clear picture of financial health and stability, and help identify areas where they can cut costs and save money.
 
 By continuously updating the data and refining the analyses, Kiribati residents can facilitate informed investment decisions, ensure adequate preparation for emergency, and set and achieve long-term financial goals.
 
